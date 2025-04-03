@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-lambda",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=web",
+    "build": "npm run build --workspace=web",
+    "deploy": "npm run deploy --workspace=web"
+  }
+}
