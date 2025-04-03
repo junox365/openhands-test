@@ -1,31 +1,31 @@
-# OpenHands Test Repository
+# OpenHands テストリポジトリ
 
-This is a test repository for OpenHands project.
+これはOpenHandsプロジェクトのテストリポジトリです。
 
-## Overview
+## 概要
 
-This repository is used for testing various features and functionalities.
+このリポジトリは、様々な機能やテストのために使用されています。
 
-## Getting Started
+## はじめ方
 
-1. Clone this repository
-```bash
+1. リポジトリをクローンする
+\`\`\`bash
 git clone https://github.com/junox365/openhands-test.git
-```
+\`\`\`
 
-2. Navigate to the project directory
-```bash
+2. プロジェクトディレクトリに移動する
+\`\`\`bash
 cd openhands-test
-```
+\`\`\`
 
-## Contributing
+## 貢献方法
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -am 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Create a new Pull Request
+1. リポジトリをフォークする
+2. 機能用のブランチを作成する（\`git checkout -b feature/amazing-feature\`）
+3. 変更をコミットする（\`git commit -am '素晴らしい機能を追加'\`）
+4. ブランチにプッシュする（\`git push origin feature/amazing-feature\`）
+5. プルリクエストを作成する
 
-## License
+## ライセンス
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+このプロジェクトはMITライセンスの下で公開されています - 詳細はLICENSEファイルを参照してください。
